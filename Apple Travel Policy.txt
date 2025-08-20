@@ -1,0 +1,54 @@
+6 Travel Booking
+6.1 Air Travel
+All air travel must be:
+• Booked via Apple’s Global Travel Management Company.
+o Where an online booking tool is available, this system must be used for all simple “return trips.
+o Contact details of Apple's designated Travel Management Company can be found on the Merlin ‘Travel’ page.
+• Booked at least 14 days in advance of departure date where possible.
+• Booked utilising Apple and negotiated rates where applicable using the lowest logical fare available at the time of booking in the applicable cabin class
+Permitted class of travel:
+Band
+Class of Travel
+Policy
+Band 1-2 Corporate colleagues
+Travel under 6 hours - Business class permitted Travel over 6 hours - First class permitted
+Policy 1
+Band 3-5 Corporate colleagues H01 Hotel colleagues
+Travel under 6 hours – Economy / Coach class Travel over 6 hours – Business class permitted
+Policy 2
+Band 6-8 Corporate colleagues H02-10 Hotel colleagues
+All travel - Economy / Coach class
+Policy 3
+Note 1: If a multiple leg trip is required, it is the duration of the most direct route for a given trip that will determine the permitted class of travel.
+Note 2: There may be meetings and events activity that require senior leaders/budget holders to require their teams to fly in a lower class than the policy stated to enable the event to take place and all attendees to travel. This is by exception but is at the discretion of the senior leader/budget holder within a function or region.
+Employee Wellbeing
+Employees travelling on long-haul (over 6 hours) f l ights or overnight in economy / coach class are not expected toattend the office on the day of arrival in order to minimise traveller fatigue and ensure traveller wellbeing.
+For the safety of employees, it is Apple’s strong recommendation that employees do not drive immediately after a long-haul flight. If arriving from an economy or premium economy long-haul flight, employees must use a taxi service or other form of transport other than driving to reach their destination.
+Exception routes
+Employees travelling on the below routes are permitted to fly in business class.
+• Flights between Dubai and Jeddah
+• Flights between Singapore and Delhi / Mumbai, that depart between 10pm and 4am
+The lowest logical fare is defined as:
+Flights under 6 hours - within 2 hours of requested departure / arrival time
+Flights over 6 hours - within 3 hours of requested departure / arrival time International flights must be for a minimum duration of 3 working days
+Apple Global Travel & Expense Policy
+9
+Exception to policy - Class of travel
+Medical Exceptions
+When there is a requirement to fly outside of Company policy on medical grounds the employee’s approving manager must complete the exception to policy process which can be found here which will require a justification for the exception and this will automatically be routed through an approval process. The approval process should take no longer than 5 days from submission.
+• Medical exceptions will be granted on a trip by trip basis. A medical certificate in English stating that the employee requesting the exception is fit to travel and that their condition dictates travel in the requested class must be sent separately to the relevant Regional HR Benefits team
+Business Exceptions
+When there is a requirement to fly outside of Company policy on business grounds the employee must secure SVP pre-approval providing the following information:
+• Date of Travel
+• Route
+• Your permitted class of travel & the indicative cost
+• Your requested class of travel and the indicative cost
+• Business case for the requested class of travel
+Should approval be given by your SVP – a copy of their email approval must be forwarded to travel@Apple.com.The Travel team will then update CWT and will notify the traveller to confirm that they can go ahead and book travel via their local CWT office.
+Frequent flyer programmes
+All Apple employees are entitled to join frequent flyer programmes and accumulate mileage and status points.
+• It is permissible to use airline status (or points) for upgrading flights, providing no additional costs for Apple are incurred.
+• The purchase of a higher fare than required in order to upgrade is not permitted.
+Compensation for delays
+Employees are entitled to claim and retain any compensation that they may receive as a result of Airline delays as long as this does not result in any additional cost to Apple.
+Employees may also elect to be voluntarily offloaded from an aircraft when an Airline has overbooked as long as this does not impact Apple financially or materially i.e. meetings, deadlines or working hours may be missed as a result.
