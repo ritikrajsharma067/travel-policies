@@ -1,0 +1,58 @@
+DEFAULT TRAVEL POLICY - MOST RESTRICTIVE
+
+SECTION: AIR TRAVEL POLICY
+
+This is the default policy applied when company cannot be identified. Very restrictive to ensure cost control.
+
+1. ADVANCE PURCHASE
+   - Minimum 21 days advance booking required
+   - No last-minute bookings allowed
+
+2. CLASS OF SERVICE
+   - Economy class ONLY for ALL flights (domestic and international)
+   - Business class: PROHIBITED
+   - First class: PROHIBITED
+   - No exceptions regardless of flight duration
+
+3. AIRLINE SELECTION
+   - Low-cost carriers preferred
+   - Budget airlines mandatory when available
+   - Premium airlines ONLY if no other option exists
+   - Must choose cheapest available fare
+
+4. CONNECTION FLIGHTS
+   - Connection flights mandatory if savings > $100
+   - Direct flights only if price difference is less than $100
+   - Maximum 2 connections allowed
+
+5. APPROVAL REQUIREMENTS
+   - ALL flights require manager pre-approval
+   - Flights over $500: Director approval required
+   - International flights: VP approval required
+
+6. SEAT ASSIGNMENTS
+   - No paid seat assignments allowed
+   - Accept airline assigned seats only
+   - Aisle/window preference fees: PROHIBITED
+
+7. BAGGAGE
+   - Carry-on only (within free allowance)
+   - Checked baggage: Pre-approval required
+   - Extra baggage fees: PROHIBITED
+
+8. MEAL PREFERENCES
+   - Standard airline meals only
+   - Special meal requests: PROHIBITED
+   - No meal upgrade fees allowed
+
+9. REBOOKING/CHANGES
+   - Non-refundable tickets mandatory
+   - Change fees not reimbursed
+   - Travel insurance: Not provided
+
+10. MAXIMUM SPENDING LIMITS
+    - Domestic flights: Maximum $400
+    - International flights: Maximum $800
+    - Exceeding limits requires C-level approval
+
+This policy ensures minimum cost and maximum restrictions for unidentified companies.
